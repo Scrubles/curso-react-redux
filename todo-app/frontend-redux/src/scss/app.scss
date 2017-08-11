@@ -1,0 +1,19 @@
+@import "~bootstrap/dist/css/bootstrap.min.css";
+@import "~font-awesome/css/font-awesome.min.css";
+
+.btn {
+  margin-right: 5px;
+}
+
+.done {
+  color: #777;
+  text-decoration: line-through;
+}
+
+.tableActions {
+  width: 105px;
+}
+
+.todoForm {
+  margin-bottom: 60px;
+}
